@@ -1,4 +1,3 @@
-CS456 A1 README
 
 Instruction:
 	The programs are written in Python. According to FAQ, we don't need makefile for this assignment.
