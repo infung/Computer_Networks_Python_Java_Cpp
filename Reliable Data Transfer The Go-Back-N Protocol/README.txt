@@ -1,4 +1,4 @@
-CS456 A2 README
+
 INSTRUCTION:
 The programs are written in Java.
 
